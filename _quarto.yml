@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "OceaniaR Hackathon 2025"
+  navbar:
+   left:
+    - text: " "
+      href: index.qmd
+   tools:
+      - icon: github
+        menu:
+          - text: Report a Bug
+            href:  https://github.com/StatSocAus/oceaniar-hack-2025/issues
+  page-footer: "Please see the attached [Code of Conduct](https://github.com/StatSocAus/oceaniar-hack-2025/blob/main/CODEOFCONDUCT.md)." 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

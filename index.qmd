@@ -1,0 +1,60 @@
+---
+title: "OceaniaR Hackathon 2025"
+subtitle: "23 November 2025, Canberra"
+---
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+We are excited to announce the next OceaniaR Hackathon day. This event is a 
+chance to collaborate in-person on R-focused projects for social good, with some
+of the leading developers in the R community. There will also be time to hold informal talks to share ideas, concepts and new packages for feedback.   
+
+This event will have a focus on promoting projects and participation from R users in the Oceania region including Australia, New Zealand and the Pacific Islands. 
+
+All project ideas will be listed as [Issues](https://github.com/StatSocAus/oceaniar-hack-2025/issues) on the project Github and decided on the day.  
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+![](logo/cbr.jpg){fig-align="right"}
+:::
+
+::::
+
+## Join Us  
+
+If you would like to attend please email [info@wavedatalabs.com.au](mailto:info@wavedatalabs.com.au) 
+
+
+## When 
+
+Sunday 23rd November 2025. 9:00am - 4:00pm. In-person only.
+
+*This is the day before the [Biometrics in the Bush Capital conference](https://biometricsociety.org.au/conference2025/index.html) in Canberra.*
+
+## The Venue   
+
+TBC
+
+
+## Sponsors   
+
+Thank you to the generous support of our sponsors for covering the costs and venue
+for this event. 
+
+[![](logo/SSA.png){width=20%}](https://www.statsoc.org.au/)
+
+[![](logo/wave.png){width=20%}](https://www.wavedatalabs.com.au/)
+
+
+## Questions  
+
+If you have a question, please file an [Issue here](https://github.com/StatSocAus/oceaniar-hack-2025/issues)  
+
+Naming credit for OceaniaR to Miles McBain. Great idea!
