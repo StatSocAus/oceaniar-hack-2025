@@ -29,7 +29,7 @@ All project ideas will be listed as [Issues](https://github.com/StatSocAus/ocean
 
 ## Join Us  
 
-If you would like to attend please email [info@wavedatalabs.com.au](mailto:info@wavedatalabs.com.au) 
+If you would like to attend please complete this [EOI form](https://forms.gle/TUxCwexZeyew4Q6a6) and we will update you when registration opens. 
 
 
 ## When 
@@ -40,21 +40,23 @@ Sunday 23rd November 2025. 9:00am - 4:00pm. In-person only.
 
 ## The Venue   
 
-TBC
+The Australian National University. The Sciences Teaching Building, Building Number 136, 136 Linnaeus Way, Acton ACT 2601  
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3257.1855870026807!2d149.11495087576978!3d-35.27651177272056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b164d451e009d05%3A0x267fc2598f3fc858!2sThe%20Sciences%20Teaching%20Building%2C%20Building%20Number%20136!5e0!3m2!1sen!2sau!4v1749513925419!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## Sponsors   
 
-Thank you to the generous support of our sponsors for covering the costs and venue
-for this event. 
+Thank you to the generous support of our sponsors for supporting and helping organise this year's event.  
 
+[![](logo/anu.svg){width=20%}](https://www.anu.edu.au/) 
 [![](logo/SSA.png){width=20%}](https://www.statsoc.org.au/)
-
 [![](logo/wave.png){width=20%}](https://www.wavedatalabs.com.au/)
+
+Naming credit for OceaniaR to Miles McBain :)  
 
 
 ## Questions  
 
 If you have a question, please file an [Issue here](https://github.com/StatSocAus/oceaniar-hack-2025/issues)  
 
-Naming credit for OceaniaR to Miles McBain. Great idea!
