@@ -57,7 +57,6 @@ The [Biometrics in the Bush Capital conference](https://biometricsociety.org.au/
 
 [![](logo/anu.svg){width=20%}](https://www.anu.edu.au/) 
 [![](logo/SSA.png){width=20%}](https://www.statsoc.org.au/)
-[![](logo/wave.png){width=20%}](https://www.wavedatalabs.com.au/)
 
 Naming credit for OceaniaR to Miles McBain :)  
 
