@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "OceaniaR Hackathon 2025",
     "section": "",
-    "text": "We are excited to announce the next OceaniaR Hackathon day. This event is run by the Statistical Computing and Visualisation Section of the Statistical Society of Australia. It’s a chance to collaborate in-person on R-focused projects for social good, with some of the leading developers in the R community. There will also be time to hold informal talks to share ideas, concepts and new packages for feedback.\nThis event will have a focus on promoting projects and participation from R users in the Oceania region including Australia, New Zealand and the Pacific Islands.\nAll project ideas will be listed as Issues on the project Github and decided on the day."
+    "text": "We are excited to announce the next OceaniaR Hackathon day. This event is run by the Statistical Computing and Visualisation Section of the Statistical Society of Australia. It’s a chance to collaborate in-person on R-focused projects for social good, with some of the leading developers in the R community. There will also be time to hold informal talks to share ideas, concepts and new packages for feedback.\nThis event will have a focus on promoting projects and participation from R users in the Oceania region including Australia, New Zealand and the Pacific Islands."
   },
   {
     "objectID": "index.html#join-us",
@@ -26,6 +26,13 @@
     "title": "OceaniaR Hackathon 2025",
     "section": "When",
     "text": "When\nSunday 23rd November 2025. 9:00am - 4:00pm. In-person only.\nThis is the day before the Biometrics in the Bush Capital conference in Canberra."
+  },
+  {
+    "objectID": "index.html#get-involved",
+    "href": "index.html#get-involved",
+    "title": "OceaniaR Hackathon 2025",
+    "section": "Get Involved",
+    "text": "Get Involved\nAll project ideas for this event are created by attendees!\nAll participants are encouraged to put forward and idea to work on. These will be listed as Issues on the project Github and the working groups will be decided on the day.\nSubmit your idea here"
   },
   {
     "objectID": "index.html#the-venue",

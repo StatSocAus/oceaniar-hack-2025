@@ -13,7 +13,6 @@ of the leading developers in the R community. There will also be time to hold in
 
 This event will have a focus on promoting projects and participation from R users in the Oceania region including Australia, New Zealand and the Pacific Islands. 
 
-All project ideas will be listed as [Issues](https://github.com/StatSocAus/oceaniar-hack-2025/issues) on the project Github and decided on the day.  
 
 :::
 
@@ -40,7 +39,16 @@ Spaces are strictly limited.
 
 Sunday 23rd November 2025. 9:00am - 4:00pm. In-person only.
 
-*This is the day before the [Biometrics in the Bush Capital conference](https://biometricsociety.org.au/conference2025/index.html) in Canberra.*
+*This is the day before the [Biometrics in the Bush Capital conference](https://biometricsociety.org.au/conference2025/index.html) in Canberra.*  
+
+
+## Get Involved  
+
+All project ideas for this event are created by attendees!  
+
+All participants are encouraged to put forward and idea to work on. These will be listed as [Issues](https://github.com/StatSocAus/oceaniar-hack-2025/issues) on the project Github and the working groups will be decided on the day.  
+
+[Submit your idea here ](https://github.com/StatSocAus/oceaniar-hack-2025/issues)
 
 ## The Venue   
 
